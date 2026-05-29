@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hody@hody.tech",
+                "Name": "Hodahel Moinzadeh (HodyTech)"
+            }
+        ],
+        "Category": "",
+        "Description": "Warm-dark Global Theme with the Claude coral accent and a plus-mark dot-grid wallpaper. Unofficial community theme, not affiliated with Anthropic.",
+        "Id": "com.hody.claude-code",
+        "License": "MIT",
+        "Name": "Claude Code",
+        "Version": "1.0.0",
+        "Website": "https://hody.tech"
+    }
+}

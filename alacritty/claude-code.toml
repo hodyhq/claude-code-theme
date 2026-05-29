@@ -1,0 +1,39 @@
+# Claude Code — alacritty color scheme
+# Usage: add this to your ~/.config/alacritty/alacritty.toml
+#
+#   [general]
+#   import = ["~/.config/alacritty/claude-code.toml"]
+#
+# (or copy the [colors.*] blocks below directly into your config)
+
+[colors.primary]
+background = "0x1F1E1D"
+foreground = "0xE8E6DC"
+
+[colors.cursor]
+text   = "0x1F1E1D"
+cursor = "0xD97757"
+
+[colors.selection]
+text       = "0x1F1E1D"
+background = "0xD97757"
+
+[colors.normal]
+black   = "0x30302E"
+red     = "0xD97757"
+green   = "0x8FA05A"
+yellow  = "0xE0A363"
+blue    = "0x7B96A8"
+magenta = "0xB08497"
+cyan    = "0x8FAFA8"
+white   = "0xD6D3C8"
+
+[colors.bright]
+black   = "0x5C5A52"
+red     = "0xE0876A"
+green   = "0xA9B87A"
+yellow  = "0xEFBC7E"
+blue    = "0x96B0C0"
+magenta = "0xC4A0B8"
+cyan    = "0xA8C4BD"
+white   = "0xF0EEE6"

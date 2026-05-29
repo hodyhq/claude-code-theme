@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hody@hody.tech",
+                "Name": "Hodahel Moinzadeh (HodyTech)"
+            }
+        ],
+        "Id": "ClaudeCode",
+        "License": "MIT",
+        "Name": "Claude Code"
+    }
+}
